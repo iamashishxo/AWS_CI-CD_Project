@@ -17,7 +17,6 @@ public class CourseController {
     @Autowired
     private CourseService courseService;
 
-
     @PostMapping(produces = "application/json", consumes = "application/json")
     public ResponseEntity<Course> addCourse(@RequestBody Course course) {
         courseService.addCourse(course);
@@ -62,11 +61,9 @@ public class CourseController {
         return "UP";
     }
 
-
-    @GetMapping("/welcome")
-    public String greetings() {
-        return "Hello Techie , AWS CICD Example working fine !";
-    }
-
+    // @GetMapping("/welcome")
+    // public String greetings() {
+    // return "Hello Techie , AWS CICD Example working fine !";
+    // }
 
 }
