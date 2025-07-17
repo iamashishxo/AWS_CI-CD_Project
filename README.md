@@ -6,7 +6,9 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="AWS_CI-CD_Project.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+
+<img src="img.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+
 
 # AWS_CI-CD_PROJECT
 
