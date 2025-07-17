@@ -7,7 +7,7 @@
 <div align="center">
 
 
-<img src="img.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="Img.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 
 # AWS_CI-CD_PROJECT
